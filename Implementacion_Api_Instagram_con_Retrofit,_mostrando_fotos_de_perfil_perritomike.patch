@@ -3,8 +3,7 @@ IDEA additional info:
 Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
 <+>UTF-8
 ===================================================================
---- ../MiLamparaApp/app/src/main/java/com/anncode/milampara/MainActivity.java	(date 1459033192000)
-+++ ../MiLamparaApp/app/src/main/java/com/anncode/milampara/MainActivity.java	(revision )
+
 @@ -22,9 +22,9 @@
          super.onCreate(savedInstanceState);
          setContentView(R.layout.activity_main);
@@ -73,8 +72,7 @@ IDEA additional info:
 Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
 <+>UTF-8
 ===================================================================
---- ../CardViewRecyclerView_TelmexHub_session2/app/src/main/res/layout/content_main2.xml	(date 1459033192000)
-+++ ../CardViewRecyclerView_TelmexHub_session2/app/src/main/res/layout/content_main2.xml	(revision )
+
 @@ -1,7 +1,9 @@
  <?xml version="1.0" encoding="utf-8"?>
  <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -145,8 +143,7 @@ IDEA additional info:
 Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
 <+>UTF-8
 ===================================================================
---- ../CardViewRecyclerView_TelmexHub_session2/.idea/modules.xml	(date 1459033192000)
-+++ ../CardViewRecyclerView_TelmexHub_session2/.idea/modules.xml	(revision )
+
 @@ -2,7 +2,7 @@
  <project version="4">
    <component name="ProjectModuleManager">
@@ -162,8 +159,7 @@ IDEA additional info:
 Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
 <+>UTF-8
 ===================================================================
---- ../MiLamparaApp/app/src/main/res/layout/activity_main.xml	(date 1459033192000)
-+++ ../MiLamparaApp/app/src/main/res/layout/activity_main.xml	(revision )
+
 @@ -5,7 +5,9 @@
      xmlns:app="http://schemas.android.com/apk/res-auto"
      android:layout_width="match_parent"
@@ -202,13 +198,12 @@ Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
  
  
  
-Index: ../CardViewRecyclerView_TelmexHub_session2/.idea/misc.xml
+
 IDEA additional info:
 Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
 <+>UTF-8
 ===================================================================
---- ../CardViewRecyclerView_TelmexHub_session2/.idea/misc.xml	(date 1459033192000)
-+++ ../CardViewRecyclerView_TelmexHub_session2/.idea/misc.xml	(revision )
+
 @@ -37,7 +37,7 @@
      <ConfirmationsSetting value="0" id="Add" />
      <ConfirmationsSetting value="0" id="Remove" />
