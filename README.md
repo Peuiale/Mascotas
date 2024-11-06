@@ -1,2 +1,2 @@
 # Mascotas
-Mascotas, Recycler View y Action View
+Integrando Web Services a nuestra aplicación
